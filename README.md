@@ -1,1 +1,1 @@
-# E-learning--Template
+# E-learning-Template
